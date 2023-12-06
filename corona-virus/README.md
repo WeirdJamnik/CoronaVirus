@@ -1,5 +1,5 @@
 # Corona Virus App
-Projekt stworzony orzy pomocy Reacta i API, pokazuje ogólną ilość zgonów, wyzdrowiałych i liczbę śmierci ludzi(liczbową ilość oraz na wykresie) w wybranym kraju. Niestety przez to, że API jest dosyć stare, ilość wyzdrowiałych dla wszystkich krajów jest równa 0, a  inne informacje również mogą być błędne.
+Projekt stworzony przy pomocy Reacta i API, pokazuje ogólną ilość zgonów, wyzdrowiałych i liczbę śmierci ludzi(liczbową ilość oraz na wykresie) w wybranym kraju. Niestety przez to, że API jest dosyć stare, ilość wyzdrowiałych dla wszystkich krajów jest równa 0, a  inne informacje również mogą być błędne.
 
 # Wymagania
 - npm: '8.10.0',
